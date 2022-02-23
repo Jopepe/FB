@@ -1,3 +1,5 @@
+#Just for fun
+
 import http.client
 import urllib
 import itertools
